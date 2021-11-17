@@ -2,5 +2,5 @@
 git-tree-sha1 = "18c98a1382c07d09f9cd3d0bd07ff88ff1975dab"
 
     [[resources.download]]
-    sha256 = "5a90d9e659ad10c70063817d8cb88eeeb38136e6ad81829d06ecdef356358d7e"
-    url = "https://github.com/waralex/DashDaq.jl/releases/download/v0.5.0+1/DashDaqResources.v0.5.0+1.tar.gz"
+    sha256 = "114e882f6f44b3ae0d53cf205052bac1a7b4a8e24fa3f6842c54e85da5e0bedf"
+    url = "https://github.com/waralex/DashDaq.jl/releases/download/v0.5.0+2/DashDaqResources.v0.5.0+2.tar.gz"
